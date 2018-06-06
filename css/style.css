@@ -1,58 +1,67 @@
-body{
+body {
   background-color: #fafafa;
   font-family: "Myriad Pro", "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
   color: #999999;
   font-weight: lighter;
 }
+
 b {
   font-weight: normal;
 }
-h3{
+
+h3 {
   font-weight: normal;
 }
-.container{
+
+.container {
   margin-left: 22%;
   margin-top: 3%;
   display: block;
 }
-.phones{
+
+.phones {
   display: inline-block;
   float: left;
   margin-top: 10%;
   margin-right: 8%;
 }
-.phones img{
 
+.phones img {
   width: 120%;
 }
-.details{
+
+.details {
   display: inline-block;
   width: 30%;
   float: left;
   text-align: center;
 }
 
-#logo{
-  width:62%;
+#logo {
+  width: 62%;
 }
-.formdetails{
+
+.formdetails {
   background-color: white;
   border: 1px solid #e6e6e6;
   margin-bottom: 10px;
   padding: 30px;
 }
-.formbottom{
+
+.formbottom {
   background-color: white;
   border: 1px solid #e6e6e6;
   margin-bottom: 10px;
   padding: 2px;
   color: #262626;
 }
-.formbottom a{
+
+.formbottom a {
   text-decoration: none;
   color: #3897f0;
 }
-button{
+
+button {
   width: 100%;
   background-color: #3897f0;
   color: white;
@@ -61,16 +70,19 @@ button{
   font-size: 14px;
   padding: 4px;
 }
-button img{
+
+button img {
   vertical-align: bottom;
   width: 8%;
 }
-.or{
+
+.or {
   padding-top: 6%;
   padding-bottom: 6%;
   font-size: 14px;
 }
-input{
+
+input {
   width: 93%;
   background-color: #fafafa;
   padding-top: 12px;
@@ -81,20 +93,24 @@ input{
   border-radius: 4px;
   color: #999999;
 }
-.footer{
+
+.footer {
   display: block;
   width: 100%;
 }
-.footer ul{
+
+.footer ul {
   list-style: none;
   display: inline-block;
   float: left;
 }
-.footercontainer{
+
+.footercontainer {
   margin-left: 16%;
   margin-right: 22%;
 }
-.footer li{
+
+.footer li {
   display: inline-block;
   float: left;
   padding-right: 14px;
@@ -102,7 +118,8 @@ input{
   font-size: 12px;
   font-weight: normal;
 }
-.copyright{
+
+.copyright {
   display: inline-block;
   float: right;
   color: #999999;
@@ -110,10 +127,12 @@ input{
   font-weight: normal;
   vertical-align: bottom;
 }
-.getapp{
+
+.getapp {
   color: #262626;
 }
-.getapp img{
+
+.getapp img {
   width: 150px;
   padding-right: 6px;
   padding-bottom: 40px;
