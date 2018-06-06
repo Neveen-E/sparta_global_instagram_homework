@@ -1,0 +1,120 @@
+body{
+  background-color: #fafafa;
+  font-family: "Myriad Pro", "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
+  color: #999999;
+  font-weight: lighter;
+}
+b {
+  font-weight: normal;
+}
+h3{
+  font-weight: normal;
+}
+.container{
+  margin-left: 22%;
+  margin-top: 3%;
+  display: block;
+}
+.phones{
+  display: inline-block;
+  float: left;
+  margin-top: 10%;
+  margin-right: 8%;
+}
+.phones img{
+
+  width: 120%;
+}
+.details{
+  display: inline-block;
+  width: 30%;
+  float: left;
+  text-align: center;
+}
+
+#logo{
+  width:62%;
+}
+.formdetails{
+  background-color: white;
+  border: 1px solid #e6e6e6;
+  margin-bottom: 10px;
+  padding: 30px;
+}
+.formbottom{
+  background-color: white;
+  border: 1px solid #e6e6e6;
+  margin-bottom: 10px;
+  padding: 2px;
+  color: #262626;
+}
+.formbottom a{
+  text-decoration: none;
+  color: #3897f0;
+}
+button{
+  width: 100%;
+  background-color: #3897f0;
+  color: white;
+  border: 1px solid #3897f0;
+  border-radius: 4px;
+  font-size: 14px;
+  padding: 4px;
+}
+button img{
+  vertical-align: bottom;
+  width: 8%;
+}
+.or{
+  padding-top: 6%;
+  padding-bottom: 6%;
+  font-size: 14px;
+}
+input{
+  width: 93%;
+  background-color: #fafafa;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left: 8px;
+  margin-bottom: 6px;
+  border: 1px solid #efefef;
+  border-radius: 4px;
+  color: #999999;
+}
+.footer{
+  display: block;
+  width: 100%;
+}
+.footer ul{
+  list-style: none;
+  display: inline-block;
+  float: left;
+}
+.footercontainer{
+  margin-left: 16%;
+  margin-right: 22%;
+}
+.footer li{
+  display: inline-block;
+  float: left;
+  padding-right: 14px;
+  color: #003569;
+  font-size: 12px;
+  font-weight: normal;
+}
+.copyright{
+  display: inline-block;
+  float: right;
+  color: #999999;
+  font-size: 12px;
+  font-weight: normal;
+  vertical-align: bottom;
+}
+.getapp{
+  color: #262626;
+}
+.getapp img{
+  width: 150px;
+  padding-right: 6px;
+  padding-bottom: 40px;
+}
